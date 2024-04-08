@@ -13,4 +13,6 @@ PART B: https://github.com/abhinavtk1/CS6910-A2/tree/main/PART-B    <br>
 **Code References:**
 1. https://machinelearningmastery.com/building-a-convolutional-neural-network-in-pytorch/
 2. Pytorch documentation: https://pytorch.org/docs/stable/index.html
-3. 
+3. https://rumn.medium.com/part-1-ultimate-guide-to-fine-tuning-in-pytorch-pre-trained-model-and-its-configuration-8990194b71e
+4. https://docs.wandb.ai/guides/track/log/media
+
