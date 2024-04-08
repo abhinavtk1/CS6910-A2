@@ -7,7 +7,7 @@ This file contains the code of the CNN architecture and training it using our da
 The file has been trained in Google Colab/Kaggle where I have taken the dataset from my Google Drive folder. <br>
 Dataset link:  https://drive.google.com/drive/folders/1vJqUoTLPd-uXgYR4Kc0vsnisZcF_AJtp?usp=sharing  <br>
 Wandb sweep: <br>
-&nbsp;{method: bayes <br>
+&nbsp;&nbsp;{method: bayes <br>
 /t metric: Validation accuracy <br>
 /t goal: Maximize }<br>
 Maximum validation accuracy: 39.67 % <br>
