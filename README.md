@@ -1,5 +1,5 @@
 # MA23M002 - ABHINAV T K
-# CS6910 - Assignment 21
+# CS6910 - Assignment 2
 WANDB Report Link: https://api.wandb.ai/links/abhinavtk/r1126h93
 
 **Project Description:** <br>
@@ -11,3 +11,6 @@ PART A: https://github.com/abhinavtk1/CS6910-A2/tree/main/PART-A    <br>
 PART B: https://github.com/abhinavtk1/CS6910-A2/tree/main/PART-B    <br>
 
 **Code References:**
+1. https://machinelearningmastery.com/building-a-convolutional-neural-network-in-pytorch/
+2. Pytorch documentation: https://pytorch.org/docs/stable/index.html
+3. 
